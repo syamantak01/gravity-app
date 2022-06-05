@@ -1,6 +1,6 @@
 # Gravity App
 
-## A web3 application where we can buy valuable sneakers of the metaverse world
+## A web3 application where we can buy valuable sneakers from the metaverse world
 
 ## [Demo Link](https://main--courageous-fairy-cf063c.netlify.app/) 🔗
 
