@@ -1,0 +1,303 @@
+[
+    {
+        "company": "Vasya",
+        "name": "Flick",
+        "color": "red-blue",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/26BkNBw77lmYxbaaQ/giphy.gif?cid=ecf05e474k6hfspvykh3sri0fh4k0a2oprm7c8d7euxy6cat&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Vasya",
+        "name": "Merx",
+        "color": "yellow-blue",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/xTiTnfUVcTfN0GU4uc/giphy.gif?cid=ecf05e474k6hfspvykh3sri0fh4k0a2oprm7c8d7euxy6cat&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Stansmith south park",
+        "color": "Blue",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/E0vsDD8guFLnnsKw5J/giphy.gif?cid=ecf05e47j9phsiy3dxr66lhuletjmhe2nfg3nazoji9py8pi&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Nmdr1 v2",
+        "color": "Aqua Blue",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/3RPJPq0thUJvKvhqPq/giphy.gif?cid=790b76113e693a0598d201bf5a5608e2228052bf8e70890f&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Jordan Freaks",
+        "color": "Red",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/JVQ4sFqKR9EHlck9V7/giphy.gif?cid=790b76116cdec3a34bbe8c3a052931656cbd22e062307916&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Forum low south park",
+        "color": "Red",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/SWFZDq3dRt4BSqxETU/giphy.gif?cid=790b761103af4ffe9ac5949effe1358ea80b5674e7b74028&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Yeezy 750 boost",
+        "color": "gray",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/IhkwWUAGm2SgU/giphy.gif?cid=790b7611393891fa82d792cc04eecd56998716bd600b2bbc&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Superstar south park",
+        "color": "green",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/IYQtMWIzbEfMqbFyt3/giphy.gif?cid=790b7611cb0a9d01e6cc6b9ef23bbed14452de44ff142015&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Nmdr1",
+        "color": "orange",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/wOWOO1VpUAm5DTo7hV/giphy.gif?cid=790b76113bae6b72796aa4bc08caba5516658e4cd0263106&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Forum low south park",
+        "color": "gold",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/KmhOGWjlpN6YfkJxBR/giphy.gif?cid=ecf05e472cxnbzjc2c0rckq7g93ugkjsqs6ml9g48qv6k6p8&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Converse",
+        "name": "Equaliser sneakers",
+        "color": "black",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/6mXvmpa2USKfm/giphy.gif?cid=ecf05e479y1gy7qzqcb3gtwscj5zu9hg6f8r7epfq28vuqwq&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Max 90",
+        "color": "black",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/YB9fAJ35BFd3BLPTv0/giphy.gif?cid=ecf05e47yqkmzsbhv24urbd52hq9y0wryj3alwhb1xgiupb3&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 4",
+        "color": "blue",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/fQYxPwJ9JuXjclAogN/giphy.gif?cid=790b7611aced8ad8c4b3dbd4acf7ba679100fd26a1df9bdf&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Force 1",
+        "color": "flourescent green",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/2ipOoFGvxkuSHWo3J8/giphy.gif?cid=790b76114043e9bb3223f68f60517471b13421a5dd74782e&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 6",
+        "color": "black",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/xBpNHArInDiOW5Hp5B/giphy.gif?cid=ecf05e47yrn2whg2fiju2q3zf9s5a4y5y52flvfzl3z33kco&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 1",
+        "color": "navy blue",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/1Rj2QCQ81QepeyFnkb/giphy.gif?cid=790b76111468b91f243db3831956eabcb84742fe03cb7963&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 1",
+        "color": "brown",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/WNzdpwzusqLM1wb1gA/giphy.gif?cid=790b7611d4039144c68de2153d5f6f1e247965eebf7e24aa&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Balenciaga",
+        "name": "Triple S",
+        "color": "black",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/7E2uLYqB9vd6nfmVsR/giphy.gif?cid=ecf05e47wus475upwv70ym7881px8y8z9u4drx9rop3pudyh&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Converse",
+        "name": "Chuck 70",
+        "color": "off white",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/QgkDHCb6UXsD8V7wKm/giphy.gif?cid=790b761184d17053b37709b5cec927626f67e0a6c87182af&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Yeezy 700 tephra",
+        "color": "silver-blue",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/VgBuMMySGDFZfqhwYi/giphy.gif?cid=790b76116b275a6eb77e87483dd4771796f80ae04348a939&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "SB Dunk Travis Scott",
+        "color": "blue-gold",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/kBEjArfebPx6GWId3T/giphy.gif?cid=790b761163fbe68539495b1d64f3890a68147d474f3eb84d&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 6 Retro",
+        "color": "Olive",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/TKL2hHGWiWoVFSGGXB/giphy.gif?cid=790b761102a581e97b6e69ff163fc9cd407ac273e6a97b72&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Ozweego Raf Simons",
+        "color": "white",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/BpRh0HV5w2zMSBFYVv/giphy.gif?cid=790b76111ab6a0592f679d13e0fa7ef59e26f208289cf7de&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Future Runner 4D sneakers",
+        "color": "Aero green",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/vgwdcKfqHNfrNGvanE/giphy.gif?cid=790b7611e7b339945bbe3ac25084a720b6b02d7e493b2d59&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Fear of God 1",
+        "color": "black",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/9G3xlMOf0HkpZuaTaC/giphy.gif?cid=790b76112a5ea311f5960c01bdae2460b81d12ffca810688&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 1",
+        "color": "neutral grey",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/7vzoSK0iWuLtQq4DJ5/giphy.gif?cid=790b76113ee08b316961cf36e5e7938ba981668c3fa2150e&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "LD Waffle",
+        "color": "pink",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/lrmykvrQ6EDXPlF9fF/giphy.gif?cid=790b7611500f9b78f8d7f944c32f15b702ad972fb52ce574&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 6",
+        "color": "pink",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/1AfbDIcBvc05cqyzkX/giphy.gif?cid=790b7611aee642b0a33937c2b8ca8f2ae361e55a945d81dc&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Fear of God 1",
+        "color": "grey",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/deD9pbY1FAuUqoPZsS/giphy.gif?cid=790b76114fb415db5f1ab8adce019c589f099db40a776fc2&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Yeezy Boost 350 V2",
+        "color": "clay",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/9FXRtn9ifFdCJJbNcO/giphy.gif?cid=790b7611149382d087096a898e1503f8086c2ddafdfae141&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "LD Waffle",
+        "color": "green",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/XGbRKcgz8WYhuRW977/giphy.gif?cid=790b76117ce1b200aabb42034ec0a64fd4a74a77c2c5892b&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Max 97",
+        "color": "Blue",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/1fVpC6zSsryqrqUdg7/giphy.gif?cid=790b7611c245d72cf514eb939794b9b1dc867055c5c372a3&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Max 97",
+        "color": "Black",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/LqJBnt5oLGkwhd3U9f/giphy.gif?cid=790b7611902e384bef4cf9a619b84bbd4a667cdbd2bb26d3&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Max 1",
+        "color": "Multicolor",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/8coNFsf1l44cWdprSO/giphy.gif?cid=790b761100ce494efe14dbcff673d03ad98892706f1c784a&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Jordan 5",
+        "color": "Dark grey",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/f6zPlLMBdrqvEpZ78a/giphy.gif?cid=790b76112b3b7cdd055ee77380ca230c149773539a2f0428&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Mars Yard overshoes",
+        "color": "White",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/MDyUwkegnEdyVOkwPP/giphy.gif?cid=790b76113157a7b088018d8e6bc4f80a92e41bd3f356b8ac&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air yeezy 2",
+        "color": "Red",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/7zGIKM3ZKX9y0nZhug/giphy.gif?cid=790b7611c2a46d1dcfbb5fa9494674276cc1ce467a23da9f&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Yeezy 700",
+        "color": "Mauve",
+        "price": "2",
+        "src": "https://media2.giphy.com/media/yvdes284dmNAJdXSRb/giphy.gif?cid=790b76119c3ca3d45985a68ec037e76fa67dde22dbd31e04&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "New Balance",
+        "name": "2002R",
+        "color": "orange",
+        "price": "2",
+        "src": "https://media0.giphy.com/media/BD4HOmq6FO5wZXM266/giphy.gif?cid=790b761145ad490329213c6278acac86affa4073ffd109ec&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Max 270 React ENG",
+        "color": "cream",
+        "price": "2",
+        "src": "https://media1.giphy.com/media/URkLZvIVcOo4OckpIb/giphy.gif?cid=790b761126d1a41bdd33866dd512350d9c50a0d915644517&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Adidas",
+        "name": "Yeezy Quantum Sneakers",
+        "color": "White and Black",
+        "price": "2",
+        "src": "https://media4.giphy.com/media/SvQpejgMFBx9YS9nvY/giphy.gif?cid=790b761124258a5995dc4513eeb6485f7f97b71d0cfdb004&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Mag Back to the Future",
+        "color": "grey",
+        "price": "3",
+        "src": "https://media4.giphy.com/media/Y0jhbITOp6joeftfL2/giphy.gif?cid=790b76117679fb46d27672fb3865beff74f33f77b6858925&rid=giphy.gif&ct=g"
+    },
+    {
+        "company": "Nike",
+        "name": "Air Streak Spectrum",
+        "color": "white",
+        "price": "2",
+        "src": "https://media3.giphy.com/media/Nen6PUVTtgFtl6vCLd/giphy.gif?cid=790b76112fbfd00d8c81c6b42baa487789daa6c0e49abf7e&rid=giphy.gif&ct=g"
+    }
+]
