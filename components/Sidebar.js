@@ -42,6 +42,7 @@ const Sidebar = () => {
             <div className={styles.logoContainer}>
                 <Image
                     src={logo}
+                    alt='Gravity Logo'
                     height={80}
                     width={400}
                     className={styles.gravityLogo}

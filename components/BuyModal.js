@@ -1,7 +1,7 @@
 import React, { useContext, useEffect } from 'react'
 import { IoIosClose } from 'react-icons/io'
 import { GravityContext } from '../context/GravityContext'
-import { HashLoader } from 'react-spinners'
+import { ClipLoader } from 'react-spinners'
 import Link from 'next/link'
 
 const BuyModal = ({ close }) => {
@@ -33,7 +33,7 @@ const BuyModal = ({ close }) => {
 
     useEffect(() => {
         calculatePrice()
-    }, [tokenAmount])
+    }, [tokenAmount, calculatePrice])
 
     const calculatePrice = () => {
         //1GTC=0.0001 Ether- Convertion Rule that we follow
@@ -47,7 +47,7 @@ const BuyModal = ({ close }) => {
             {isLoading ? (
                 <>
                     <div className={styles.loaderContainer}>
-                        <HashLoader size={80} />
+                        <ClipLoader size={50} />
                     </div>
                 </>
             ) : (
