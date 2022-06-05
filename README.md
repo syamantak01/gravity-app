@@ -1,11 +1,11 @@
-# Gravity App🔥
+# Gravity App
 
 ## A web3 application where we can buy valuable sneakers of the metaverse world
 
 ## [Demo Link](https://main--courageous-fairy-cf063c.netlify.app/) 🔗
 
 <div align="center">
-  <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Gravity Demo" width="100%" />
+  <img src="https://user-images.githubusercontent.com/58560802/172072824-bcc98d0a-7027-474b-93ec-113829cc62c3.png" alt="Gravity Demo" width="100%" />
   <br>
 </div>
 
