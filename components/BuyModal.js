@@ -16,7 +16,7 @@ const BuyModal = ({ close }) => {
         buyBtn: `w-[20%] h-[50px] bg-[#000] mt-[40px] rounded-lg p-[10px] flex mx-auto text-white justify-center items-center cursor-pointer`,
         loaderContainer: `w-full h-[500px] flex items-center justify-center`,
         loader: `w-full h-full flex items-center justify-center`,
-        etherscan: `w-full h-full flex items-center justify-center text-green-500 text-2xl mt-[20px] font-bold cursor-pointer`,
+        etherscan: `w-full h-full flex items-center justify-center text-green-500 text-xl mt-[20px] font-bold cursor-pointer`,
         success: `w-full h-full flex items-center justify-center text-xl mt-[20px] font-bolder`,
     }
     const {
@@ -98,7 +98,7 @@ const BuyModal = ({ close }) => {
                             </div>
                             <Link href={`${etherscanLink}`} className={styles.etherscan}>
                                 <a className={styles.etherscan} target='_blank'>
-                                    Transaction Receipt
+                                    Click here to see the transaction receipt
                                 </a>
                             </Link>
                         </>

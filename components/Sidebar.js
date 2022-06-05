@@ -14,7 +14,7 @@ const Sidebar = () => {
     const styles = {
         container: `w-[500px] h-[1000px] mr-[100px] flex flex-col bg-[#fff] static`,
         logoContainer: `h-[50px] w-[350px] absolute inset-x-0 top-0 ml-[50px] mt-[20px]`,
-        profile: ` w-full py-16 flex flex-col justify-center items-center mt-[20px] mb-[20px]`,
+        profile: ` w-full py-16 flex flex-col justify-center items-center mt-[40px] mb-[20px]`,
         profilePicContainer: `flex  rounded-xl items-center justify-center w-full h-full mb-5 mt-5`,
         profilePic: `rounded-3xl object-cover`,
         welcome: ` text-md mb-2 font-bold text-xl`,
