@@ -97,7 +97,7 @@ const Sidebar = () => {
                         Home
                     </div>
                 </Link>
-                <Link href='/history'>
+                <Link href='/History'>
                     <div className={styles.menuItem}>
                         <AiOutlineHistory />
                         Transaction History
@@ -117,7 +117,7 @@ const Sidebar = () => {
                                 <div><b>To</b>:   {transaction.attributes.to_address} </div>
                                 <div>
                                     <b>Hash</b>:    {' '}
-                                    <a 
+                                    <a
                                         target={'_blank'}
                                         rel='noopener noreferrer'
                                         href={`https://rinkeby.etherscan.io/tx/${transaction.attributes.hash}`}
