@@ -14,13 +14,13 @@
 
 ## Technologies used
 
-- NextJS: Frontend
-- Tailwind CSS: Style the components
-- Moralis: Database, Authentication, Web3 API
-- Hardhat: To deploy the Smart Contract
-- OpenZepplin: ERC20 contract
-- Ether.js: To interact with Ethereum blockchain
-- Netlify: To deploy the website
+- `NextJS`: Frontend
+- `Tailwind CSS`: Style the components
+- `Moralis: Database`: Authentication, Web3 API
+- `Hardhat`: To deploy the Smart Contract
+- `OpenZepplin`: ERC20 contract
+- `Ether.js`: To interact with Ethereum blockchain
+- `Netlify`: To deploy the website
   
 ## How I went on with the project
 
